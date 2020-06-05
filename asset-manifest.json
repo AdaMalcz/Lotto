@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/lotto/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/lotto/static/js/main.df01f06d.chunk.js",
-    "main.js.map": "/lotto/static/js/main.df01f06d.chunk.js.map",
-    "runtime-main.js": "/lotto/static/js/runtime-main.88cb9dd6.js",
-    "runtime-main.js.map": "/lotto/static/js/runtime-main.88cb9dd6.js.map",
-    "static/css/2.d36af4a1.chunk.css": "/lotto/static/css/2.d36af4a1.chunk.css",
-    "static/js/2.cbae2e34.chunk.js": "/lotto/static/js/2.cbae2e34.chunk.js",
-    "static/js/2.cbae2e34.chunk.js.map": "/lotto/static/js/2.cbae2e34.chunk.js.map",
-    "index.html": "/lotto/index.html",
-    "precache-manifest.c07d882ae34dff9a0abf5c5e74071260.js": "/lotto/precache-manifest.c07d882ae34dff9a0abf5c5e74071260.js",
-    "service-worker.js": "/lotto/service-worker.js",
-    "static/css/2.d36af4a1.chunk.css.map": "/lotto/static/css/2.d36af4a1.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/lotto/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.cbae2e34.chunk.js.LICENSE.txt": "/lotto/static/js/2.cbae2e34.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/lotto/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/lotto/static/media/fa-solid-900.ec763292.svg"
+    "main.css": "/Lotto/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Lotto/static/js/main.62da5692.chunk.js",
+    "main.js.map": "/Lotto/static/js/main.62da5692.chunk.js.map",
+    "runtime-main.js": "/Lotto/static/js/runtime-main.061031d4.js",
+    "runtime-main.js.map": "/Lotto/static/js/runtime-main.061031d4.js.map",
+    "static/css/2.879da2de.chunk.css": "/Lotto/static/css/2.879da2de.chunk.css",
+    "static/js/2.cbae2e34.chunk.js": "/Lotto/static/js/2.cbae2e34.chunk.js",
+    "static/js/2.cbae2e34.chunk.js.map": "/Lotto/static/js/2.cbae2e34.chunk.js.map",
+    "index.html": "/Lotto/index.html",
+    "precache-manifest.a15ccf6235b027937da0ddb486217a17.js": "/Lotto/precache-manifest.a15ccf6235b027937da0ddb486217a17.js",
+    "service-worker.js": "/Lotto/service-worker.js",
+    "static/css/2.879da2de.chunk.css.map": "/Lotto/static/css/2.879da2de.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Lotto/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.cbae2e34.chunk.js.LICENSE.txt": "/Lotto/static/js/2.cbae2e34.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Lotto/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/Lotto/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88cb9dd6.js",
-    "static/css/2.d36af4a1.chunk.css",
+    "static/js/runtime-main.061031d4.js",
+    "static/css/2.879da2de.chunk.css",
     "static/js/2.cbae2e34.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.df01f06d.chunk.js"
+    "static/js/main.62da5692.chunk.js"
   ]
 }
