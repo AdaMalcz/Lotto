@@ -32,3 +32,5 @@ function App() {
 }
 
 export default App;
+
+// github pages deployment guide: https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e

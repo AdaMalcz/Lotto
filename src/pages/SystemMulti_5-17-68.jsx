@@ -14,7 +14,7 @@ class System extends React.Component {
   };
 
   setMyNumbers = numbers => {
-    this.setState({ myNumbers: numbers });
+    this.setState({ myNumbers: numbers.sort(function(a, b){return a-b}) });
   };
 
   setMyBets = numbers => {
@@ -28,7 +28,7 @@ class System extends React.Component {
           <MDBCol md="6"><MultiDescription /></MDBCol>
           <MDBCol md="6"><SystemDescription /></MDBCol>
         </MDBRow>
-        <NumbersInput setMyNumbers={this.setMyNumbers} setMyBets={this.setMyBets}/>
+        <NumbersInput setMyNumbers={this.setMyNumbers} setMyBets={this.setMyBets} />
         <Bets myNumbers={this.state.myNumbers} myBets={this.state.myBets}/>
       </>
     );
