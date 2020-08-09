@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06d48b8aa1f4a8cb11f747e4e8af3245",
+    "revision": "256a0f7bd6cb667667907c3b438b6451",
     "url": "/Lotto/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lotto/static/css/2.879da2de.chunk.css"
   },
   {
-    "revision": "6d3c6d376f7796f24b4c",
+    "revision": "53f947c8e7f43d2e53be",
     "url": "/Lotto/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lotto/static/js/2.cbae2e34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d3c6d376f7796f24b4c",
-    "url": "/Lotto/static/js/main.1907399f.chunk.js"
+    "revision": "53f947c8e7f43d2e53be",
+    "url": "/Lotto/static/js/main.261dbca2.chunk.js"
   },
   {
     "revision": "7ef02766c1151fc0405d",

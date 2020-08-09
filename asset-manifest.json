@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Lotto/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Lotto/static/js/main.1907399f.chunk.js",
-    "main.js.map": "/Lotto/static/js/main.1907399f.chunk.js.map",
+    "main.js": "/Lotto/static/js/main.261dbca2.chunk.js",
+    "main.js.map": "/Lotto/static/js/main.261dbca2.chunk.js.map",
     "runtime-main.js": "/Lotto/static/js/runtime-main.061031d4.js",
     "runtime-main.js.map": "/Lotto/static/js/runtime-main.061031d4.js.map",
     "static/css/2.879da2de.chunk.css": "/Lotto/static/css/2.879da2de.chunk.css",
     "static/js/2.cbae2e34.chunk.js": "/Lotto/static/js/2.cbae2e34.chunk.js",
     "static/js/2.cbae2e34.chunk.js.map": "/Lotto/static/js/2.cbae2e34.chunk.js.map",
     "index.html": "/Lotto/index.html",
-    "precache-manifest.ff005bc17241f3657c2348efd4fc9e75.js": "/Lotto/precache-manifest.ff005bc17241f3657c2348efd4fc9e75.js",
+    "precache-manifest.766286a669995664acaad4bdbbf1587f.js": "/Lotto/precache-manifest.766286a669995664acaad4bdbbf1587f.js",
     "service-worker.js": "/Lotto/service-worker.js",
     "static/css/2.879da2de.chunk.css.map": "/Lotto/static/css/2.879da2de.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Lotto/static/css/main.5ecd60fb.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.879da2de.chunk.css",
     "static/js/2.cbae2e34.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1907399f.chunk.js"
+    "static/js/main.261dbca2.chunk.js"
   ]
 }
