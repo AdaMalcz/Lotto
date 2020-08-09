@@ -25,6 +25,7 @@ const About = () => {
         <p><i>wersja 1.1.0</i></p>
         <li>dodano walidację formularza</li>
         <li>sortowanie liczb w kolejności rosnącej przed wyświetleniem</li>
+        <li>dodano logo</li>
       </ul>
     </>
   );

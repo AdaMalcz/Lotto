@@ -5,6 +5,7 @@ import { MDBContainer } from 'mdbreact';
 import ScrollToTop from './components/ScrollToTop';
 import System from './pages/SystemMulti_5-17-68';
 import About from './pages/About';
+import Logo from './components/Logo';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
         <div className="App">
 
           <header>
-            <h1 className="text-center">Lotto</h1>
+            <Logo />
           </header>
 
           <main>
