@@ -5,6 +5,7 @@ I made this app at the request of my friend, but feel free to use it if you like
 Available at: https://adamalcz.github.io/Lotto/ 
 
 ==================================================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
