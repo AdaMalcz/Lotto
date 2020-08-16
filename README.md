@@ -1,10 +1,9 @@
 # Lotto (multi multi) Bets Generator
-Web App for generating Lotto game bets according to the specified number system. 
-I made this app at the request of my friend, but feel free to use it if you like (only polish version available).
+Web App for generating Lotto game bets according to the specified number system. I made this app at the request of my friend, but feel free to use it if you like (*only polish version available*).
 
 Available at: https://adamalcz.github.io/Lotto/ 
 
-==================================================================================================================
+============================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
